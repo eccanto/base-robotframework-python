@@ -39,18 +39,20 @@ Tests.Features.Sum
 ==============================================================================
 Verify the sum of positive values                                     | PASS |
 ------------------------------------------------------------------------------
+Verify the sum of negative values                                     | PASS |
+------------------------------------------------------------------------------
 Tests.Features.Sum                                                    | PASS |
-1 test, 1 passed, 0 failed
+2 tests, 2 passed, 0 failed
 ==============================================================================
 Tests.Features                                                        | PASS |
-1 test, 1 passed, 0 failed
+2 tests, 2 passed, 0 failed
 ==============================================================================
 Tests                                                                 | PASS |
-1 test, 1 passed, 0 failed
+2 tests, 2 passed, 0 failed
 ==============================================================================
-Output:  /home/.../base-robotframework-python/results/output.xml
-Log:     /home/.../base-robotframework-python/results/log.html
-Report:  /home/.../base-robotframework-python/results/report.html
+Output:  /home/.../base-robotframework-python/reports/output.xml
+Log:     /home/.../base-robotframework-python/reports/log.html
+Report:  /home/.../base-robotframework-python/reports/report.html
 ```
 
 **HTML report**:

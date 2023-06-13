@@ -10,8 +10,6 @@ class CalculatorLibrary:
     def open_calculator(self) -> None:
         self.calculator = Calculator()
 
-        # import sys, pdb; pdb.Pdb(stdout=sys.__stdout__).set_trace()
-
     @keyword('close calculator')
     def close_calculator(self) -> None:
         self.calculator.close()
