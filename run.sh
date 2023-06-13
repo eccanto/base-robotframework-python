@@ -2,4 +2,4 @@
 
 set -eu
 
-python -m robot -L "INFO" -P . --outputdir "results/" "$@" tests/
+python3 -m robot -L "INFO" -P . --outputdir "results/" "$@" tests/
