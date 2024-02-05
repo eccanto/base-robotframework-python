@@ -1,5 +1,6 @@
 assertpy==1.1
 EasyProcess==1.1
-robotframework==6.0.2
-wheel==0.40.0
+robotframework==7.0
+pygobject==3.46.0
+wheel==0.42.0
 git+https://gitlab.com/dogtail/dogtail.git@c126fc789325a15a757739a082552971fc1cb840#egg=dogtail
